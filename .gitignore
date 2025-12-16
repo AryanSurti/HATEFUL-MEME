@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Models (too large for GitHub)
+*.pt
+*.pth
+*.ckpt
+
+# Data (too large)
+archive/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cursor (HIDE THIS)
+.cursor/
+.cursorignore
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs
+test_predictions*.csv
+*.log
