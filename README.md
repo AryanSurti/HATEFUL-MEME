@@ -7,7 +7,7 @@ Research project implementing Graphormer-style graph neural networks over CLIP e
 - **Backbone**: CLIP (ViT-L/14) for vision-language features
 - **Graph Construction**: Heterogeneous graph with text tokens, image patches, and global node
 - **Fusion**: Graphormer transformer with edge-type attention bias
-- **Performance**: 71.4% AUROC on validation set
+- **Performance**: 74.7% AUROC on validation set
 
 ## 📊 Key Innovation
 
